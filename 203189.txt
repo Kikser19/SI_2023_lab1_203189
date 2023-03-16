@@ -1,0 +1,37 @@
+Команди за лабараториска вежба 1
+
+1. Завршено
+2. Завршено
+3. Завршено
+4. git init
+5. ...
+6. git add . / git commit -m "Inital commit"
+7. git add . / git commit -m "Add java class"
+8. git push origin master
+9. git branch bug1/2/3
+10. git checkout bug1
+11. git commit -a -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. git commit -a -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. git commit -a -m "Fix method sumEvenNumbers"
+16. git push --all origin
+17. git checkout master
+18. git merge bug1
+19. git push --all origin
+20. git merge bug2
+21. git push --all origin
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3
+26. git push --all --force origin
+27. git add . / git commit -m "Final commit"
+28. git push --all origin
+
+Чекор 18: Не добив никаков конфликт, стратегијата за спојување беше 
+fast forwarding.
+Чекор 20: Не добив никаков конфликт, стратегијата за спојување беше 
+orc strategy(рекурзивно).
+Чекор 25: Не добив никаков конфликт, стратегијата за спојување беше 
+fast forwarding.

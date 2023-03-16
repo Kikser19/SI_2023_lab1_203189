@@ -1,0 +1,71 @@
+C:\Users\User\Desktop\SI_2023_lab1_203189>type nul > logs.txt
+
+C:\Users\User\Desktop\SI_2023_lab1_203189>git log
+commit 60db348259252969bd2b5d93f109327129887082 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:09:08 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit a3f68875755f9f487c8be35dddf646cc691bbd28
+Merge: 62193ee e194024
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:33:56 2023 +0100
+
+    Merge branch 'bug2'
+
+commit e194024ef93f7414ef471cdf551e5741e08c7c08 (origin/bug2, bug2)
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:05:02 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+:...skipping...
+commit 60db348259252969bd2b5d93f109327129887082 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:09:08 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit a3f68875755f9f487c8be35dddf646cc691bbd28
+Merge: 62193ee e194024
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:33:56 2023 +0100
+
+    Merge branch 'bug2'
+
+commit e194024ef93f7414ef471cdf551e5741e08c7c08 (origin/bug2, bug2)
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 15:05:02 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 62193ee0031c98a8b2d48f29876405dab9fd0208 (origin/bug1, bug1)
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 14:08:45 2023 +0100
+
+    Fix wrong loop for reading
+
+commit a2fbf101caeb1e1321311c8b4239c4f78a0ec039
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Thu Mar 16 13:10:39 2023 +0100
+
+    Add java class
+
+commit 4ae00330a8195a4b51e7a398137145fcc6e6dd21
+Author: Kikser <angelkovskikristijan3@gmail.com>
+Date:   Mon Mar 13 00:52:18 2023 +0100
+
+    Inital commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
